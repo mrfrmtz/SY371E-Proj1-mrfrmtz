@@ -1,2 +1,4 @@
 # SY371E-Proj1-mrfrmtz
-Sanya was here!
+## This is a collaborative repository
+###### Sanya Kotian and Marifet
+###### This repository was made for the first report of Class 771E in Fall 2022 at the University of Texas at Austin 
